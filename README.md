@@ -28,4 +28,4 @@ This is a screen shot of my final work after completing the challenge!
 
 
 Here is the link to the site!!
-https://jasper-ik.github.io/frontend-mentor-card/
+https://jasper-ik.github.io/frontend-mentor-card/card.html
